@@ -1,0 +1,37 @@
+/* POSTE UM POR VEZ */
+    {
+        "nome": "Itoupava Central",
+        "qtdHabitantes": 28164
+    },
+    {
+        "nome": "Velha Central",
+        "qtdHabitantes": 18779
+    },
+    {
+        "nome": "Itoupavazinha",
+        "qtdHabitantes": 17560
+    },
+    {
+        "nome": "Água Verde",
+        "qtdHabitantes": 16186
+    },
+    {
+        "nome": "Garcia",
+        "qtdHabitantes": 15911
+    },
+    {
+        "nome": "Itoupava Norte",
+        "qtdHabitantes": 15648
+    },
+    {
+        "nome": "Velha",
+        "qtdHabitantes": 15373
+    },
+    {
+        "nome": "Progresso",
+        "qtdHabitantes": 15005
+    },
+    {
+        "nome": "Fortaleza",
+        "qtdHabitantes": 13196
+    }
