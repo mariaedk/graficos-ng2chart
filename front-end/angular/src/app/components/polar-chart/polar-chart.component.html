@@ -1,0 +1,18 @@
+<div class="container">
+  <div class="grafico">
+    <h1 class="mb-5">Quantidade de pessoas por Bairro em Blumenau</h1>
+    <div>
+      <div>
+        <div style="display: block">
+          <canvas *ngIf="isLoadedQtd && isLoadedNames" baseChart
+            [data]="chartData"
+            [legend]="polarAreaLegend"
+            [type]="polarAreaChartType"
+            >
+          </canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button routerLink="/barchart"> bar chart </button>
+</div>
